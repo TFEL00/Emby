@@ -2,5 +2,22 @@
   "name":"TFEL头像", "description":"自用，不定时更新图标，Tg联系：@JarvisET_bot", 
   "icons":[    
     {"name":"a", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/a.png"},
+    {"name":"b", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/b.png"},
+    {"name":"c", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/c.png"},
+    {"name":"d", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/d.png"},
+    {"name":"e", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/e.png"},
+    {"name":"f", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/f.png"},
+    {"name":"g", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/g.png"},
+    {"name":"h", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/h.png"},
+    {"name":"i", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/i.png"},
+    {"name":"j", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/j.png"},
+    {"name":"k", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/k.png"},
+    {"name":"l", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/l.png"},
+    {"name":"m", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/m.png"},
+    {"name":"n", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/n.png"},
+    {"name":"o", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/o.png"},
+    {"name":"p", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/p.png"},
+    {"name":"q", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/q.png"},
+    {"name":"r", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/r.png"},
   ]
 }

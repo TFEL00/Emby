@@ -39,6 +39,8 @@
     {"name":"终点站", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/24.PNG"},
     {"name":"Nebula", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/25.PNG"},
     {"name":"彩虹", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/26.PNG"},
+    {"name":"彩虹1", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/26-1.PNG"},
+    {"name":"彩虹2", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/26-2.PNG"},
     {"name":"DPX", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/4.PNG"},
     {"name":"STAREMBY", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/27.PNG"},
     {"name":"STARPORN", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/27-1.PNG"},
@@ -49,6 +51,7 @@
     {"name":"PiliPili2", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/30-1.PNG"},
     {"name":"NYA", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/28.PNG"},
     {"name":"NYA1", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/28-1.PNG"},
+    {"name":"NYA2", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/28-2.PNG"},
     {"name":"紫罗兰", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/31-1.PNG"},
     {"name":"紫罗兰", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/31-2.PNG"},
     {"name":"HKA", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/32.PNG"},
@@ -60,6 +63,10 @@
     {"name":"临境1", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/36-1.PNG"},
     {"name":"临境2", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/36-2.PNG"},
     {"name":"临境3", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/36-3.PNG"},
+    {"name":"土匪", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/37.PNG"},
+    {"name":"二次元", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/38.PNG"},
     {"name":"A24", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/A24.PNG"},
+    {"name":"A241", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/A24-1.PNG"},
+    {"name":"A242", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/A24-2.PNG"},
   ]
 }

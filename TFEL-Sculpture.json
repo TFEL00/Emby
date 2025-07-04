@@ -1,6 +1,7 @@
 {
   "name":"TFEL头像", "description":"自用，不定时更新图标，Tg联系：@JarvisET_bot", 
   "icons":[    
+    {"name":"菜狗", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/菜狗.png"},
     {"name":"a", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/a.png"},
     {"name":"b", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/b.png"},
     {"name":"c", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/c.png"},

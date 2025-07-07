@@ -2,9 +2,9 @@
   "name":"头像", "description":"自用，不定时更新图标，Tg联系：@JarvisET_bot", 
   "icons":[    
     {"name":"菜狗", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/菜狗.png"},
+    {"name":"Xiju", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/Xiju.PNG"},
+    {"name":"Xiju_1", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/Xiju1.PNG"},
     {"name":"a", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/a.png"},
-    {"name":"Xiju", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/Xiju.png"},
-    {"name":"Xiju_1", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/Xiju1.png"},
     {"name":"b", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/b.png"},
     {"name":"c", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/c.png"},
     {"name":"d", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/Sculpture\/d.png"},

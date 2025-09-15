@@ -1,6 +1,10 @@
 {
   "name":"TFEL图标", "description":"透明PNG图标，Forward五折码：1717.5，如需更新请Tg联系：@FridayET_bot", 
   "icons":[    
+    {"name":"T", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/T.PNG"},
+    {"name":"F", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/F.PNG"},
+    {"name":"E", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/E.PNG"},
+    {"name":"L", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/L.PNG"},
     {"name":"105°", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/105°.PNG"},
     {"name":"105°_1", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/105°1.PNG"},
     {"name":"105°_2", "url":"https:\/\/raw.githubusercontent.com\/TFEL00\/Emby\/main\/icons\/105°2.PNG"},

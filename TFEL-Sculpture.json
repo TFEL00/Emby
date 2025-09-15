@@ -3,6 +3,10 @@
 "description":"透明PNG头像，Forward五折码：1717.5，如需更新请Tg联系：@FridayET_bot", 
 "icons":
     [
+    {"name":"T", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Sculpture/T.PNG"},
+    {"name":"F", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Sculpture/F.PNG"},
+    {"name":"E", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Sculpture/E.PNG"},
+	{"name":"L", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Sculpture/L.PNG"},	
 	{"name":"1", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Sculpture/1.PNG"},
 	{"name":"2", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Sculpture/2.PNG"},
 	{"name":"3", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Sculpture/3.PNG"},

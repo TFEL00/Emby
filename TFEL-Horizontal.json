@@ -2,6 +2,7 @@
   "name":"TFEL横版图标", "description":"横版透明PNG图标，Forward五折码：1717.5，如需更新请Tg联系：@FridayET_bot", 
   "icons":[    
     {"name":"Alpha", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Alpha.PNG"},
+    {"name":"Ask", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Ask.PNG"},
     {"name":"EchoFlix", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/EchoFlix.PNG"},
     ]
 }

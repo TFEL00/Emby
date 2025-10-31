@@ -2,9 +2,12 @@
   "name":"TFEL横版图标", "description":"横版透明PNG图标，Forward五折码：1717.5，如需更新请Tg联系：@FridayET_bot", 
   "icons":[    
     {"name":"Alpha", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Alpha.PNG"},
+    {"name":"Alpha1", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Alpha1.PNG"},
     {"name":"Ask", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Ask.PNG"},
+    {"name":"Ask1", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Ask1.PNG"},
     {"name":"Chilledmelon", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Chilledmelon.PNG"},
     {"name":"EchoFlix", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/EchoFlix.PNG"},
+    {"name":"EchoFlix1", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/EchoFlix1.PNG"},
     {"name":"ME", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/ME.PNG"},
     {"name":"Misty", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Misty.PNG"},
     {"name":"Yezi", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Yezi.PNG"},

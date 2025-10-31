@@ -3,6 +3,10 @@
   "icons":[    
     {"name":"Alpha", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Alpha.PNG"},
     {"name":"Ask", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Ask.PNG"},
+    {"name":"Chilledmelon", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Chilledmelon.PNG"},
     {"name":"EchoFlix", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/EchoFlix.PNG"},
+    {"name":"ME", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/ME.PNG"},
+    {"name":"Misty", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Misty.PNG"},
+    {"name":"Yezi", "url":"https://raw.githubusercontent.com/TFEL00/Emby/main/Horizontal/Yezi.PNG"},
     ]
 }
